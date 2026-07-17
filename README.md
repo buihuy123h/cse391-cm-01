@@ -1,4 +1,4 @@
 # cse391-cm-01
-Họ và tên : Bùi Quang Huy
-Mã sinh viên: 2451261014
-Mục tiêu phiếu: Hoàn thiện phiếu bài tập số 1
+* **Họ và tên:** Bùi Quang Huy
+* **Mã sinh viên:** 2451261014
+* **Mục tiêu phiếu:** Hoàn thiện phiếu bài tập số 1
